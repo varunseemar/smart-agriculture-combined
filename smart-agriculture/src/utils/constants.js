@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://smart-agriculture-backend.onrender.com"
