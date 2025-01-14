@@ -64,4 +64,5 @@ npm run dev
 The application will be accessible on http://localhost:3000.
 
 
-**New users can sign up but new admin cant be created so for that you have to use the main admin ID = varunseemar1@gmail.com pass = 123.
+**New users can sign up but new admin cant be created so for that you have to manually go to your mongo db and change the role to admin or on the live vercel link you can use the main admin ID = varunseemar1@gmail.com pass = 123.
+**Dont delete the admin account otherwise you cant access the admin panel anymore on the vercel link.
